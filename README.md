@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @elmustyyj
-- 👀 I’m interested in working as Social Manager
-- 🌱 I’m currently Graphic Design 
-- 💞️ I’m looking to collaborate on Community management 
+- 👀 I’m a Blockchain/Crypto enthusiast 
+- 👨‍💻 I'm Currently a Community Moderator 
 - 📫 How to reach me @el_mustyyj on Twitter 
 
 <!---
-mjere002/mjere002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Elmustyyj ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
